@@ -1,0 +1,65 @@
+body  {
+  background-color: white;
+  font-family: 'Rubik', sans-serif;
+}
+
+h1  {
+  text-align: center;
+  font-family: 'Baloo Tammudu', cursive;
+}
+
+h2  {
+  text-decoration: underline;
+}
+
+h3  {
+  font-weight: bold;
+}
+
+#searchBar {
+  margin-bottom: 10px;
+}
+
+.tableWrapper {
+  max-height: 400px;
+  overflow: auto;
+}
+
+.tableWrapper{
+	border: solid;
+	border-color: black;
+	border-width: 2px;
+}
+
+.jumbotron {
+  color: white;
+  border: solid;
+  border-color: black;
+  border-width: 2px;
+  background-color: #4F84C4;
+}
+
+button {
+	color: white;
+	background-color: #898E8C;
+	border: outset;
+	border-radius: 5px;
+}
+
+th {
+	color: white;
+	background-color: #4F84C4;
+	border-bottom: solid;
+	border-color:black;
+	border-width: 2px;
+}
+
+form {
+  font-size: 13px;
+	padding: 10px;
+}
+
+input {
+	border: outset;
+	border-radius: 5px;
+}
